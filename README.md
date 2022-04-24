@@ -1,1 +1,2 @@
-# Python_Self_Practice
+# Calculator_Flask
+Ceated a calculator and implemented using Flask.
